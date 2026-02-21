@@ -1,2 +1,7 @@
 apps/001_sorting_wasted_automotive_batteries.zip filter=lfs diff=lfs merge=lfs -text
 apps/002_dismantling_refrigerators.zip filter=lfs diff=lfs merge=lfs -text
+videos/walkthroughs/001_sorting_wasted_automotive_batteries.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/walkthroughs/002_dismantling_refrigerators.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/integrations/exrercise_p1_hugging-face.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/integrations/exrercise_p2_unity-ide.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/integrations/exrercise_p3_viroo-player.mp4 filter=lfs diff=lfs merge=lfs -text
